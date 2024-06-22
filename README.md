@@ -1,4 +1,4 @@
-This is my current QWERTY 36-key layout:
+My current QWERTY 36-key layout:
 
 
 <img width="1252" alt="Screenshot 2024-06-22 at 3 47 02 PM" src="https://github.com/dylanramos98/zmk-config/assets/84203186/0171b456-0c80-4176-9a6a-7e8ae14ac942">
