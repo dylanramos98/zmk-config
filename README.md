@@ -7,4 +7,6 @@ This is my current QWERTY 36-key layout:
 
 <img width="1210" alt="Screenshot 2024-06-22 at 3 35 18 PM" src="https://github.com/dylanramos98/zmk-config/assets/84203186/4c16f4ac-7c68-4298-8dab-3720962e4dfa">
 
+Combo layer mostly used for window management with Magnet:
+
 <img width="1370" alt="Screenshot 2024-06-22 at 3 35 27 PM" src="https://github.com/dylanramos98/zmk-config/assets/84203186/395396ea-878d-43c4-adc2-fa0b2c166a7c">
