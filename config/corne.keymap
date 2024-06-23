@@ -72,7 +72,7 @@
             bindings = <
 &trans  &kp LG(LS(NUMBER_4))  &trans         &kp LC(LA(LG(LEFT)))  &kp LC(LA(LG(RIGHT)))  &kp LC(LA(LEFT_ARROW))    &kp RC(RA(RIGHT))  &kp LC(LA(RET))   &trans                  &trans             &kp K_SCREENSAVER  &trans
 &trans  &kp LG(TAB)           &kp LC(LA(D))  &kp LC(LA(F))         &kp LC(LA(G))          &trans                    &trans             &kp LS(LG(LEFT))  &kp LS(LA(LEFT_ARROW))  &kp RS(RA(RIGHT))  &kp LS(LG(RIGHT))  &trans
-&trans  &trans                &kp LG(X)      &kp LG(C)             &kp LG(V)              &trans                    &trans             &trans            &trans                  &trans             &trans             &trans
+&trans  &trans                &kp LG(X)      &kp LG(C)             &kp LG(V)              &trans                    &trans             &kp LEFT          &kp RIGHT               &trans             &trans             &trans
                                              &trans                &trans                 &trans                    &trans             &trans            &trans
             >;
         };
