@@ -1,12 +1,14 @@
-My current QWERTY 36-key layout:
+These days, I am mostly using my Voyager, but wanted something similar to its layout for on-the-go.
+
+This is my current QWERTY 36-key layout that I use on my Corne:
+
+<img width="1214" alt="Screenshot 2024-11-23 at 2 16 20 PM" src="https://github.com/user-attachments/assets/35991be4-ab2f-47d2-ae5a-f3486caffb5f">
 
 
-<img width="1252" alt="Screenshot 2024-06-22 at 3 47 02 PM" src="https://github.com/dylanramos98/zmk-config/assets/84203186/0171b456-0c80-4176-9a6a-7e8ae14ac942">
+<img width="1217" alt="Screenshot 2024-11-23 at 2 16 42 PM" src="https://github.com/user-attachments/assets/74fe3710-35bd-4e1f-a00f-7d6bd24629e5">
 
-<img width="1442" alt="Screenshot 2024-06-22 at 3 35 06 PM" src="https://github.com/dylanramos98/zmk-config/assets/84203186/b32853f5-13df-4ca0-872e-ed73afe2f253">
 
-<img width="1210" alt="Screenshot 2024-06-22 at 3 35 18 PM" src="https://github.com/dylanramos98/zmk-config/assets/84203186/4c16f4ac-7c68-4298-8dab-3720962e4dfa">
+<img width="1197" alt="Screenshot 2024-11-23 at 2 16 53 PM" src="https://github.com/user-attachments/assets/4ec92684-f0b6-4971-b321-dc2dee696d84">
 
-Combo layer mostly used for window management with Magnet:
 
-<img width="1370" alt="Screenshot 2024-06-22 at 3 35 27 PM" src="https://github.com/dylanramos98/zmk-config/assets/84203186/395396ea-878d-43c4-adc2-fa0b2c166a7c">
+<img width="1221" alt="Screenshot 2024-11-23 at 2 17 06 PM" src="https://github.com/user-attachments/assets/f8c795b7-465b-460e-a3c0-fc85869c513f">
